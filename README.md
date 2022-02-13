@@ -6,4 +6,4 @@ Stuff to small for separate repo. Pure randomness from my head kept in one place
 
 | Name | Language | Description |
 | --- | --- | --- |
-| lorem | ipsumLang | Lorem ipsum dolor sit amet |
+| _template | - | Project directory template |
